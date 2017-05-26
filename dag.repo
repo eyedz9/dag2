@@ -1,0 +1,5 @@
+[dag]
+name=DAG RPM Repository
+baseurl=http://apt.sw.be/redhat/el$releasever/en/$basearch/dag
+gpgcheck=1
+enabled=1
